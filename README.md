@@ -1,4 +1,4 @@
 # Digital Video Processing System
 
-This is a hardware level computer vision program for three filters implemented in VHDL using Xilinx Vivado. This system integrates directly with an OV7670 video camera connected to an FPGA to perform real time Sobel edge detection, greyscale conversion, and color inversion. 
+This is a hardware level computer vision program for three filters implemented in VHDL using Xilinx Vivado. This system uses a Nexys A7 FPGA to integrate directly with an OV7670 video camera connected to an FPGA to perform real time Sobel edge detection, greyscale conversion, and color inversion. 
 As this was an academic laboratory experiment, the system connecting code to the camera and board was preprovided.
